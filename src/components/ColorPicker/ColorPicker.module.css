@@ -11,3 +11,9 @@
   opacity: 0.85;
   cursor: pointer;
   }
+
+.ColorPicker {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  }
