@@ -1,5 +1,4 @@
 .GameBoard {
-    display: flex;
-    flex-direction: column-reverse;
-
-  }
+  display: flex;
+  flex-direction: column-reverse;
+}
